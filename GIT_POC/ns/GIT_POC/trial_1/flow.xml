@@ -164,5 +164,11 @@
 
 <BRANCH TIMEOUT="">
   <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
+</MAP>
 </BRANCH>
 </FLOW>
