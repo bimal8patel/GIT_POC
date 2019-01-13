@@ -572,5 +572,11 @@
 
 <SEQUENCE TIMEOUT="" EXIT-ON="FAILURE" FORM="FINALLY">
   <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE TIMEOUT="" SERVICE="pub.xml:xmlNodeToDocument" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
 </SEQUENCE>
 </FLOW>
